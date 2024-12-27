@@ -34,6 +34,8 @@ const Login = () => {
 
                         <div className="p-8 rounded-2xl bg-white shadow" id='NameId'>
                             <h2 className="text-gray-800 text-center text-2xl font-bold">Login</h2>
+                            <h1>Hello</h1>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus voluptatem quam accusamus sunt laborum accusantium molestiae blanditiis iusto inventore sapiente error quasi impedit, pariatur exercitationem fuga doloremque ipsa quibusdam dolor?</p>
                             <form className="mt-8 space-y-4" onSubmit={handleSubmit}>
                                 <div>
                                     <label className="text-gray-800 text-sm mb-2 block">User name</label>
